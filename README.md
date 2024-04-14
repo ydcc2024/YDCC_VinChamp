@@ -10,8 +10,7 @@
 > https://main.d2np97asl5qhtd.amplifyapp.com/
 
 ## Morgan Freeman talking about A.I
-
-https://github.com/incr-gh/YDCC_VinChamp/assets/53570376/b7b0a5fb-7324-4216-bb6c-d3689a57f283
+https://github.com/incr-gh/YDCC_VinChamp/assets/53570376/56b37952-2cfe-47ee-8b83-8a40424bf77b
 
 
 
