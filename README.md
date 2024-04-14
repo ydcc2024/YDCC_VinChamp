@@ -30,6 +30,26 @@ Video Face Manipulation Detection Through Ensemble of CNNs
 Improved DeepFake Detection Using Whisper Features
 > https://www.isca-archive.org/interspeech_2023/kawa23b_interspeech.html
 
+## Citations
+
+> @inproceedings{kawa23b_interspeech,
+>  author={Piotr Kawa and Marcin Plata and Michał Czuba and Piotr Szymański and Piotr Syga},
+>  title={{Improved DeepFake Detection Using Whisper Features}},
+>  year=2023,
+>  booktitle={Proc. INTERSPEECH 2023},
+>  pages={4009--4013},
+>  doi={10.21437/Interspeech.2023-1537}
+>}
+
+> @INPROCEEDINGS{9412711,
+>   author={Bonettini, Nicolò and Cannas, Edoardo Daniele and Mandelli, Sara and Bondi, Luca and Bestagini, Paolo and Tubaro, Stefano},
+>   booktitle={2020 25th International Conference on Pattern Recognition (ICPR)}, 
+>   title={Video Face Manipulation Detection Through Ensemble of CNNs}, 
+>   year={2021},
+>   volume={},
+>   number={},
+>   pages={5012-5019},
+>   doi={10.1109/ICPR48806.2021.9412711}}
 ## License
 Copyright (c) 2012-2024 VinChamp
 
