@@ -3,9 +3,11 @@
 1. `pip install -r requirements.txt`
 2. `python app.py`
 
-## Huggingface link
+## Huggingface link (hosted on HuggingFace Space)
 > https://huggingface.co/spaces/incrhf/YDCC_VinChamp
 
+## Website (hosted on AWS Amplify)
+> https://main.d2np97asl5qhtd.amplifyapp.com/
 ## Description 
 Guardian Call
 An intelligent application to warn users against deepfakes and scam calls.
