@@ -10,7 +10,10 @@
 > https://main.d2np97asl5qhtd.amplifyapp.com/
 
 ## Morgan Freeman talking about A.I
-https://github.com/incr-gh/YDCC_VinChamp/assets/53570376/5d061ce4-a4a0-4e90-b5d0-4317f159e9c7
+
+https://github.com/incr-gh/YDCC_VinChamp/assets/53570376/b7b0a5fb-7324-4216-bb6c-d3689a57f283
+
+
 
 ## Description 
 Guardian Call
