@@ -8,6 +8,10 @@
 
 ## Website (hosted on AWS Amplify)
 > https://main.d2np97asl5qhtd.amplifyapp.com/
+
+## Morgan Freeman talking about A.I
+https://github.com/incr-gh/YDCC_VinChamp/assets/53570376/5d061ce4-a4a0-4e90-b5d0-4317f159e9c7
+
 ## Description 
 Guardian Call
 An intelligent application to warn users against deepfakes and scam calls.
