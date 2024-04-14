@@ -142,6 +142,7 @@ class FaceExtractor:
             # Read the full-size frames from this video.
             filename = filenames[video_idx]
             video_path = os.path.join(input_dir, filename)
+            print('path ',video_path)
             result = self.video_read_fn(video_path)
 
             # Error? Then skip this video.
@@ -221,6 +222,7 @@ class FaceExtractor:
         """Convenience method for doing face extraction on a single video."""
         input_dir = os.path.dirname(video_path)
         filenames = [os.path.basename(video_path)]
+        #print(input_dir,filenames)
         return self.process_videos(input_dir, filenames, [0])
 
     def _tile_frames(self, frames: np.ndarray, target_size: Tuple[int, int]) -> (np.ndarray, List[float]):
